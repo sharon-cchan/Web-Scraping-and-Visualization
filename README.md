@@ -7,7 +7,7 @@ The coronavirus COVID-19 is a worldwide pandemic that has spread quickly across 
 
 **Modules and libraries used:**
 
-For Web-scraping:
+For Web-Scraping:
 * BeautifulSoup
 
 For Analysis and Visualizations:
